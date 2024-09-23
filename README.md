@@ -9,7 +9,7 @@
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/feed/)
 
-----------
+
 
 ### Minhas Tecnologias
 
@@ -25,15 +25,14 @@
 
 | -------- | --------------  |
 
- Fundamentos de Inteligência Artificial | [Certificados](https://hermes.dio.me/certificates/cover/5I0RCTYG.jpg)
+|Fundamentos de Inteligência Artificial | [Certificados](https://hermes.dio.me/certificates/cover/5I0RCTYG.jpg)
   
 |Formação Lógica de Programação| [Certificados](https://hermes.dio.me/certificates/cover/AZLCUBX7.jpg)  
-
-|Formação Cybersecurity Specialist| [Certificados](https://hermes.dio.me/certificates/YBLVG3DN.pdf)
+| Formação Cybersecurity Specialist| [Certificados](https://hermes.dio.me/certificates/YBLVG3DN.pdf)
 
 | Fundamentos de IA Generativa e Claude 3 | [Certificados](https://hermes.dio.me/certificates/cover/63XTOGPV.jpg)
 
-|Formação Fundamentos de Inteligência Artificial| [Certificados](https://hermes.dio.me/certificates/cover/5I0RCTYG.jpg)
+| Formação Fundamentos de Inteligência Artificial| [Certificados](https://hermes.dio.me/certificates/cover/5I0RCTYG.jpg)
 
 | DevOps & Agile Culture | [Certificados](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/114766/87c55cc1343ea7d1768ea7863319d4f5/certificado.png)
 
@@ -43,7 +42,7 @@
 
 | Soluções Tecnológicas Emergentes| [Certificados](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/120810/be3f0ee319784fc28ed0a67b8e58a68a/certificado.png)
 
-|Endpoint Security | [Certificados](https://www.credly.com/badges/1238f00f-b42e-46ff-b68e-8b2afcdf55a4/linked_in_profile)
+| Endpoint Security | [Certificados](https://www.credly.com/badges/1238f00f-b42e-46ff-b68e-8b2afcdf55a4/linked_in_profile)
   
 
 
