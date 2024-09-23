@@ -3,7 +3,7 @@
 ![gif do Bob Esponja](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHFlZWNjMTBwY2hyaW9rdTR1Z3ByZGJnbHp3ZWhyeG4wZzk1OHQ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBW3BniaWrFo4/giphy.webp)
 ---------
 
-😎 Olá, me chamo Rafael Guedes!
+😎 Olá, meu nome é Rafael Guedes!
 
 💬 estou cursando Análise e Desenvolvimento de Sistemas.
 
