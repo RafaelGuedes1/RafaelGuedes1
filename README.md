@@ -12,13 +12,14 @@
 
 
 ### Minhas Tecnologias
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="100px"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="100px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AWS-Dark.svg" width="100px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" width="100px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" width="100px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="100px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" width="100px">
+</p>
 
 
 
@@ -35,7 +36,10 @@
 | Soluções Tecnológicas Emergentes| [Certificados](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/120810/be3f0ee319784fc28ed0a67b8e58a68a/certificado.png)
 | Endpoint Security | [Certificados](https://www.credly.com/badges/1238f00f-b42e-46ff-b68e-8b2afcdf55a4/linked_in_profile)
   
+
 ![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=dracula)
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
@@ -45,4 +49,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[def]: https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=radical
