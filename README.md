@@ -35,7 +35,7 @@
 | Soluções Tecnológicas Emergentes| [Certificados](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/120810/be3f0ee319784fc28ed0a67b8e58a68a/certificado.png)
 | Endpoint Security | [Certificados](https://www.credly.com/badges/1238f00f-b42e-46ff-b68e-8b2afcdf55a4/linked_in_profile)
   
-![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=tokyonight)
+![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=dracula)
 
 
 
