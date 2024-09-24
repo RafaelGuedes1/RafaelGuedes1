@@ -39,9 +39,9 @@
 
 ![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=dracula)
 
-![Rafael Guedes GitHub stat](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula)
+![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula)
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="[def]"/>
 
 
 
@@ -51,3 +51,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+
+
+[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula
