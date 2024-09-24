@@ -20,6 +20,8 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" width="100px">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" width="100px">
 
+
+
 | Cursos | Certificados |
 | -------- | --------------  |
 |Fundamentos de Inteligência Artificial | [Certificados](https://hermes.dio.me/certificates/cover/5I0RCTYG.jpg)
@@ -33,9 +35,14 @@
 | Soluções Tecnológicas Emergentes| [Certificados](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/120810/be3f0ee319784fc28ed0a67b8e58a68a/certificado.png)
 | Endpoint Security | [Certificados](https://www.credly.com/badges/1238f00f-b42e-46ff-b68e-8b2afcdf55a4/linked_in_profile)
   
+![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=tokyonight)
+
 
 
 <!---
 RafaelGuedes1/RafaelGuedes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+[def]: https://github-readme-stats.vercel.app/api?username=RafaelGuedes1&show_icons=true&theme=radical
