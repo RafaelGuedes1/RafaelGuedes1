@@ -41,16 +41,6 @@
 
 ![Rafael Guedes GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula)
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula"/>
 
 
 
-<!---
-RafaelGuedes1/RafaelGuedes1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
-[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelGuedes1&layout=compact&langs_count=7&theme=dracula
